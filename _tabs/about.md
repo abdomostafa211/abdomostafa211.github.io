@@ -1,46 +1,20 @@
 ---
+layout: page
 title: About
-icon: fas fa-user
-order: 4
+permalink: /about/
 ---
 
-# Hi, I'm Abdelrahman Mostafa 👋
+Hi, I'm Abdelrahman Mostafa.
 
-I'm a Cybersecurity enthusiast passionate about offensive and defensive security.
+I'm a final-year Computer Science student and a web penetration tester. I built my foundation by studying the OWASP Top 10, and I'm ranked in the top 5% worldwide on TryHackMe.
 
-## Areas of Interest
+Lately, I've also been getting into digital forensics, incident response (IR), and SOC analysis. I enjoy CTF challenges too, especially ones that combine different skills.
 
-- Web Application Security
-- Bug Bounty Hunting
-- SOC Analysis
-- Digital Forensics
-- Penetration Testing
+This blog is where I share writeups, walkthroughs, and things I learn along the way — CTF challenges, bug bounty findings, and OSINT investigations. I write everything in plain, simple language, with every step explained, because that's how I like to learn.
 
-## Skills
+## Find Me
 
-- Python
-- Linux
-- Networking
-- Burp Suite
-- Nmap
-- Wireshark
-- SQL
-- JavaScript
+- HackerOne: [this_is_liam](https://tryhackme.com/p/ThatsLiam)
+- GitHub: [abdomostafa211](https://github.com/abdomostafa211)
 
-## Certifications
-
-- Linux Fundamentals
-- Network+
-- SOC Fundamentals
-- CySA+
-- eJPT (In Progress)
-
-## Current Goals
-
-- Publish high-quality writeups.
-- Improve bug bounty skills.
-- Build practical cybersecurity projects.
-
----
-
-Feel free to connect with me on GitHub and LinkedIn.
+If you're into web security, bug bounty, or OSINT, feel free to look around.
