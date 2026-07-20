@@ -14,7 +14,7 @@ This blog is where I share writeups, walkthroughs, and things I learn along the 
 
 ## Find Me
 
-- HackerOne: [this_is_liam](https://tryhackme.com/p/ThatsLiam)
+- TryHackMe: [this_is_liam](https://tryhackme.com/p/ThatsLiam)
 - GitHub: [abdomostafa211](https://github.com/abdomostafa211)
 
 If you're into web security, bug bounty, or OSINT, feel free to look around.
