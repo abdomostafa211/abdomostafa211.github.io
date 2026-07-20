@@ -2,7 +2,7 @@
 layout: post
 title: "Cache Me Outside — TryHackMe OSINT Writeup"
 date: 2026-07-20
-categories: [writeup, ctf , osint]
+categories: [osint, writeup]
 tags: [osint, tryhackme, recon]
 ---
 
